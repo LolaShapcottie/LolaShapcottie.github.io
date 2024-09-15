@@ -3,7 +3,7 @@ layout: post
 title: "The Complex Reality of Capitalism: A Historical Perspective"
 date:   2025-04-04 05:57:50 +0000
 categories: News
-tags: featured
+tags: [featured] 
 excerpt_image: https://garydean.id/images/industrial-revolution.png
 image: https://garydean.id/images/industrial-revolution.png
 ---
