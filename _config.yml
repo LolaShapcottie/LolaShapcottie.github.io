@@ -1,6 +1,6 @@
 # Site
 name: 'Quick Journal'
-description: 'Capture Life’s Moments in Minutes'
+description: "Capture Life’s Moments in Minutes"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 url: "https://LolaShapcottie.github.io" # the base hostname & protocol for your site, e.g. https://example.com
